@@ -1,0 +1,16 @@
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\bin\Debug\net8.0\CafeShopMgmt.Application.dto.deps.json
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\bin\Debug\net8.0\CafeShopMgmt.Application.dto.dll
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\bin\Debug\net8.0\CafeShopMgmt.Application.dto.pdb
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\bin\Debug\net8.0\CafeShopMgmt.Domain.dll
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\bin\Debug\net8.0\CafeShopMgmt.Domain.pdb
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\obj\Debug\net8.0\CafeShopMgmt.Application.dto.csproj.AssemblyReference.cache
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\obj\Debug\net8.0\CafeShopMgmt.Application.dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\obj\Debug\net8.0\CafeShopMgmt.Application.dto.AssemblyInfoInputs.cache
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\obj\Debug\net8.0\CafeShopMgmt.Application.dto.AssemblyInfo.cs
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\obj\Debug\net8.0\CafeShopMgmt.Application.dto.csproj.CoreCompileInputs.cache
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\obj\Debug\net8.0\CafeShopMgmt.Application.dto.sourcelink.json
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\obj\Debug\net8.0\CafeShop.605F772D.Up2Date
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\obj\Debug\net8.0\CafeShopMgmt.Application.dto.dll
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\obj\Debug\net8.0\refint\CafeShopMgmt.Application.dto.dll
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\obj\Debug\net8.0\CafeShopMgmt.Application.dto.pdb
+D:\CafeShopManagement\CafeShopManagement\CafeShopMgmt.Application.dto\obj\Debug\net8.0\ref\CafeShopMgmt.Application.dto.dll
