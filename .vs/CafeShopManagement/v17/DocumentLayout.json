@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CafeShopManagement\\CafeShopManagement\\",
+  "WorkspaceRootPath": "D:\\Repo\\CafeShopManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10609592-682B-4E40-A2BA-C5FD26BEBC48}|CafeShopMgmt.Application.UseCases\\CafeShopMgmt.Application.UseCases.csproj|d:\\cafeshopmanagement\\cafeshopmanagement\\cafeshopmgmt.application.usecases\\employee\\createemployeecommand\\createemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10609592-682B-4E40-A2BA-C5FD26BEBC48}|CafeShopMgmt.Application.UseCases\\CafeShopMgmt.Application.UseCases.csproj|d:\\repo\\cafeshopmanagement\\cafeshopmgmt.application.usecases\\employee\\createemployeecommand\\createemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10609592-682B-4E40-A2BA-C5FD26BEBC48}|CafeShopMgmt.Application.UseCases\\CafeShopMgmt.Application.UseCases.csproj|solutionrelative:cafeshopmgmt.application.usecases\\employee\\createemployeecommand\\createemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,25 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CreateEmployeeHandler.cs",
-              "DocumentMoniker": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Application.UseCases\\Employee\\CreateEmployeeCommand\\CreateEmployeeHandler.cs",
+              "DocumentMoniker": "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Application.UseCases\\Employee\\CreateEmployeeCommand\\CreateEmployeeHandler.cs",
               "RelativeDocumentMoniker": "CafeShopMgmt.Application.UseCases\\Employee\\CreateEmployeeCommand\\CreateEmployeeHandler.cs",
-              "ToolTip": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Application.UseCases\\Employee\\CreateEmployeeCommand\\CreateEmployeeHandler.cs",
+              "ToolTip": "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Application.UseCases\\Employee\\CreateEmployeeCommand\\CreateEmployeeHandler.cs",
               "RelativeToolTip": "CafeShopMgmt.Application.UseCases\\Employee\\CreateEmployeeCommand\\CreateEmployeeHandler.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwD4AAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T12:29:53.734Z",
               "EditorCaption": ""

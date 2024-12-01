@@ -3391,11 +3391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Infrastructure\\CafeShopMgmt.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Infrastructure\\CafeShopMgmt.Infrastructure.csproj",
       "projectName": "CafeShopMgmt.Infrastructure",
-      "projectPath": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Infrastructure\\CafeShopMgmt.Infrastructure.csproj",
+      "projectPath": "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Infrastructure\\CafeShopMgmt.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\mpadf\\.nuget\\packages\\",
-      "outputPath": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Infrastructure\\obj\\",
+      "outputPath": "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3416,8 +3416,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Application.Interface\\CafeShopMgmt.Application.Interface.csproj": {
-              "projectPath": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Application.Interface\\CafeShopMgmt.Application.Interface.csproj"
+            "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Application.Interface\\CafeShopMgmt.Application.Interface.csproj": {
+              "projectPath": "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Application.Interface\\CafeShopMgmt.Application.Interface.csproj"
             }
           }
         }

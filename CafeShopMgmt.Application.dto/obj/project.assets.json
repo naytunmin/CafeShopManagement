@@ -3347,11 +3347,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Application.dto\\CafeShopMgmt.Application.dto.csproj",
+      "projectUniqueName": "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Application.dto\\CafeShopMgmt.Application.dto.csproj",
       "projectName": "CafeShopMgmt.Application.dto",
-      "projectPath": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Application.dto\\CafeShopMgmt.Application.dto.csproj",
+      "projectPath": "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Application.dto\\CafeShopMgmt.Application.dto.csproj",
       "packagesPath": "C:\\Users\\mpadf\\.nuget\\packages\\",
-      "outputPath": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Application.dto\\obj\\",
+      "outputPath": "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Application.dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3372,8 +3372,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Domain\\CafeShopMgmt.Domain.csproj": {
-              "projectPath": "D:\\CafeShopManagement\\CafeShopManagement\\CafeShopMgmt.Domain\\CafeShopMgmt.Domain.csproj"
+            "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Domain\\CafeShopMgmt.Domain.csproj": {
+              "projectPath": "D:\\Repo\\CafeShopManagement\\CafeShopMgmt.Domain\\CafeShopMgmt.Domain.csproj"
             }
           }
         }

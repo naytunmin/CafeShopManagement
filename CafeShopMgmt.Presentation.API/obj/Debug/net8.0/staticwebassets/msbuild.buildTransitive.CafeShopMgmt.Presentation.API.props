@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\CafeShopMgmt.Presentation.API.props" />
-</Project>
